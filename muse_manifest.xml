@@ -1,0 +1,58 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Ruslan0204.github.io" resolutions="1x" timestamp="1495466378926">
+  <folder name="css">
+    <file name="site_global.css" crc="11580411"/>
+    <file name="master_______-a.css" crc="499241833" ref="абитуриенту-спо:новости:index:абитуринту-во:наша-история"/>
+    <file name="___________-___.css" crc="3855230790" ref="абитуриенту-спо"/>
+    <file name="_______.css" crc="4125813699" ref="новости"/>
+    <file name="index.css" crc="480288367" ref="index"/>
+    <file name="__________-__.css" crc="506313857" ref="абитуринту-во"/>
+    <file name="____-_______.css" crc="396006946" ref="наша-история"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+    <file name="museutils.js" crc="4232573551" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+    <file name="whatinput.js" crc="86476730" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+    <file name="require.js" crc="4234670167" ref="index:новости:абитуриенту-спо:абитуринту-во:наша-история"/>
+  </folder>
+  <folder name="images">
+    <file name="111696.jpg" crc="4026844146" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chirikova.jpg" crc="3867071176" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="150-u148-fr.jpg" crc="434633909" ref="index"/>
+    <file name="дорога.jpg" crc="530726428" ref="новости">
+      <caption webpage="новости" alt=""/>
+    </file>
+    <file name="новости.jpg" crc="27070279" ref="новости">
+      <caption webpage="новости" alt=""/>
+    </file>
+    <file name="150.jpg" crc="4244658633" ref="новости:абитуриенту-спо:абитуринту-во:наша-история">
+      <caption webpage="абитуриенту-спо" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="наша-история" alt=""/>
+      <caption webpage="абитуринту-во" alt=""/>
+    </file>
+    <file name="дорога 2.jpg" crc="4087626901" ref="абитуриенту-спо">
+      <caption webpage="абитуриенту-спо" alt=""/>
+    </file>
+    <file name="дорога 3.jpg" crc="191119444" ref="абитуринту-во">
+      <caption webpage="абитуринту-во" alt=""/>
+    </file>
+    <file name="дорога 4.jpg" crc="3800203294" ref="наша-история">
+      <caption webpage="наша-история" alt=""/>
+    </file>
+    <file name="ква1.jpg" crc="4161807657" ref="наша-история">
+      <caption webpage="наша-история" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="148006910" seo="true" mt="1495464296018" redirect="true"/>
+  <file name="новости.html" crc="4208255299" seo="true" mt="1495464295970" redirect="true"/>
+  <file name="абитуриенту-спо.html" crc="4079113768" seo="true" mt="1495464296926" redirect="true"/>
+  <file name="абитуринту-во.html" crc="4275704736" seo="true" mt="1495464297915" redirect="true"/>
+  <file name="наша-история.html" crc="3858115366" seo="true" mt="1495464296022" redirect="true"/>
+</manifest>
